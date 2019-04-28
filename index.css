@@ -1,0 +1,57 @@
+#googleImage {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    height: 150px;
+    width: 500px;
+    position: relative;
+    padding-top: 51px;
+    margin-left: 200px;
+}
+
+#searchbar {
+    position: relative;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+li {
+    display: inline;
+    float: right;
+    padding-left: 15px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 30px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .54);
+    color: white;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.footer2 {
+    position: fixed;
+    left: 0;
+    bottom: 0px;
+    background-color: aqua;
+    width:100%;
+    
+}
+
+.footer2 #left-elements{
+    display: inline;
+    float: left;
+}
+.footer2 #right-elements{
+    display: inline;
+    float: right;
+    padding-right: 10px;
+}
